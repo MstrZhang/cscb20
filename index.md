@@ -26,5 +26,6 @@ utoronto email and including the subject "CSCB20"
 ### Resources
 
 - Piazza
-- [Java docs](https://docs.oracle.com/javase/8/docs/)
 - [MySQL docs](https://dev.mysql.com/doc/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [PuTTY](http://www.putty.org/)
