@@ -1,13 +1,11 @@
 <nav>
     <ol class="breadcrumb">
-        <li class="breadcrumb-item">
-            <a href="/">Home</a>
-        </li>
-        <li class="breadcrumb-item">
-            <a href="/tutorials.html">Tutorials</a>
-        </li>
-        <li class="breadcrumb-item">
-            <a href="/code.html">Code</a>
-        </li>
+        {% for item in site.data.navigation %}
+            <li class="breadcrumb-item">
+                <a href="{{ item.link }}">
+                    {{ item.name }}
+                </a>
+            </li>
+        {% endfor %}
     </ol>
 </nav>
