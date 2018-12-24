@@ -1,8 +1,9 @@
 ---
 layout: site
-title: CSCB20 - Home
+title: CSCB20
 ---
-Welcome to CSCB20 -- a practical introduction to databases and Web app development
+
+Welcome to CSCB20 - a practical introduction to databases and Web app development
 
 ---
 
