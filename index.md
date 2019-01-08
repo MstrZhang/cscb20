@@ -11,7 +11,9 @@ Welcome to CSCB20 - a practical introduction to databases and Web app developmen
 
 **Teaching Assistant:** Kevin Zhang
 
-**Tutorial:** TBA
+**Tutorials:** 
+- Monday 11:00AM - 12:00AM (Tutorial 1), BV 473
+- Monday 2:00PM - 3:00PM (Tutorial 4), BV 473
 
 **Office Hours:** TBA
 
