@@ -2,7 +2,7 @@
     <ol class="breadcrumb">
         {% for item in site.data.navigation %}
             <li class="breadcrumb-item">
-                <a href="{{ item.link }}">
+                <a href="{{ site.baseurl }}{{ item.link }}">
                     {{ item.name }}
                 </a>
             </li>

@@ -1,6 +1,7 @@
 title: CSCB20
 description: >-
   Introduction to Databases and Web Applications
+baseurl: /cscb20
 
 # Build settings
 markdown: kramdown
