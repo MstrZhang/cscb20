@@ -30,4 +30,5 @@ utoronto email and including the subject "CSCB20"
 - Piazza
 - [MySQL docs](https://dev.mysql.com/doc/)
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [PuTTY](http://www.putty.org/)
+- [PuTTY](https://www.putty.org/)
+- [MySQL Workbench](https://www.mysql.com/products/workbench/)

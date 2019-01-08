@@ -3,7 +3,7 @@ layout: site
 title: Tutorials
 ---
 
-Tutorial notes will be posted slightly after class. Solutions will not be posted
+Tutorial notes will be posted slightly after class. Code will be posted after the following week
 
 ---
 
