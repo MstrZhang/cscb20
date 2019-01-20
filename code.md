@@ -7,4 +7,12 @@ Demo code shown in tutorial. Will be posted slightly after class. Not every tuto
 
 ---
 
-Nothing yet, but here's [a funny XKCD comic](https://i.kym-cdn.com/photos/images/newsfeed/001/323/085/7fd.jpg)
+### Solutions
+
+<ul>
+{% for soln in site.static_files %}
+    {% if soln.path contains 'code' %}
+        <li><a href="{{ site.baseurl }}{{ soln.path }}">{{ soln.name }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>
