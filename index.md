@@ -21,14 +21,18 @@ Welcome to CSCB20 - a practical introduction to databases and Web app developmen
 you can email me at [mstr.zhang@mail.utoronto.ca](mailto:mstr.zhang@mail.utoronto.ca) using your
 utoronto email and including the subject "CSCB20"
 
-**Further Notes:** Any material covered in tutorial is fair game for exams so for your own benefit, please consider attending tutorial
+**Further Notes:** Tutorials are mandatory and attendance will be taken each tutorial. Additionally, 
+any material covered in tutorial is fair game for exams so for your own benefit, please consider 
+attending tutorial
 
 ---
 
 ### Resources
 
 - Piazza
+- [Socrative](https://b.socrative.com/login/student/)
 - [MySQL docs](https://dev.mysql.com/doc/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [PuTTY](https://www.putty.org/)
-- [MySQL Workbench](https://www.mysql.com/products/workbench/)
+- [SQLite](https://www.sqlite.org/index.html)
+- [SQLite Browser](https://sqlitebrowser.org/)
