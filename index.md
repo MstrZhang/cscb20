@@ -29,7 +29,7 @@ attending tutorial
 
 ### Resources
 
-- Piazza
+- [Piazza](https://piazza.com/mail.utoronto.ca/spring2019/cscb20)
 - [Socrative](https://b.socrative.com/login/student/)
 - [MySQL docs](https://dev.mysql.com/doc/)
 - [Visual Studio Code](https://code.visualstudio.com/)
