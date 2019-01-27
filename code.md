@@ -16,3 +16,15 @@ Demo code shown in tutorial. Will be posted slightly after class. Not every tuto
     {% endif %}
 {% endfor %}
 </ul>
+
+---
+
+### Resources
+
+<ul>
+{% for soln in site.static_files %}
+    {% if soln.path contains 'res' %}
+        <li><a href="{{ site.baseurl }}{{ soln.path }}">{{ soln.name }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>
