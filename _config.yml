@@ -5,6 +5,7 @@ baseurl: /cscb20
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
 plugins:
   - jekyll-feed
 
